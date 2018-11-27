@@ -20,7 +20,7 @@ import java.util.Arrays;
 /**
  * Login Page for GroupEm
  * CSC 3380 Project
- * @author Walter Scott, Ian Andrepont, Leigh Wright, Scott Walker
+ * @author Walter Scott, Ian Andrepont, Leigh Wright, Scott Widler
  * @since 11/27/18
  * @see GroupEm, Event, HomePage, EventPage, CreatePage
  */
